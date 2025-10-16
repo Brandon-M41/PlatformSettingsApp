@@ -1,4 +1,4 @@
-Repository URL: [your-github-repo-url]
+Repository URL: https://github.com/Brandon-M41/PlatformSettingsApp
 Student Name: Brandon Daniel Mair
 Student ID: N01505851
 Lab: CPAN 213 - Lab 5
